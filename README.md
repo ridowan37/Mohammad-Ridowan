@@ -50,7 +50,7 @@ I'm Mohammad Ridowan,  Student,  an App Developer,  Website Developer,  Gamer,  
 
     <h2>🔗 Social Media</h2>
     <p class="social">
-      <a href="https://facebook.com/ridowan.mohammadhidoy" target="_blank">Facebook: Ridowa N Mohammad Hridoy</a><br>
+      <a href="https://facebook.com/ridowan.mohammadhidoy" target="_blank">Facebook: https://www.facebook.com/share/16QmnShBsV/</a><br>
       <a href="https://instagram.com/_rido_1_" target="_blank">Instagram: @_rido_1_</a>
     </p>
 
